@@ -1,14 +1,14 @@
-# Hi 👋, I'm Arthur Jircik
+# Hi, I'm Arthur Jircik
 
-🚀 I am a **Software Engineer Student** at **FIAP**, São Paulo, Brazil, with a strong interest in **Back-End** development.
+I am a **Software Engineer Student** at **FIAP**, São Paulo, Brazil, with a strong interest in **Back-End** development.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href=https://github.com/jircik>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href=mailto:oarthurjircik@gmail.com>
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   </a>
   <a href=https://www.linkedin.com/in/arthur-jircik/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,7 +26,7 @@ My main focus today is on the Java ecosystem with Spring Boot for API developmen
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ### Front-End
 
@@ -55,8 +55,3 @@ My main focus today is on the Java ecosystem with Spring Boot for API developmen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![CLOUDFARE](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas

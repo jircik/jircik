@@ -14,7 +14,7 @@
 
 ## About me
 
-Software Engineering student at **FIAP**, building production-ready systems and automations. My core focus is back-end development with Java/Spring Boot and Node.js/TypeScript — and lately I've been expanding into full-stack with Next.js to ship complete products.
+Software Engineering student at **FIAP**, building production-ready systems and developer tools. My core focus is back-end development with Java/Spring Boot and Node.js/TypeScript — and lately I've been expanding into full-stack with Next.js to ship complete products.
 
 I'm also big on automation: using n8n and AI tooling to build smarter workflows and developer tools.
 
@@ -29,10 +29,12 @@ I'm also big on automation: using n8n and AI tooling to build smarter workflows 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E23237?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 ### Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database

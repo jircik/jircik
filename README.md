@@ -11,6 +11,8 @@
 
 ---
 
+</div>
+
 ## About me
 
 I'm a Software Engineering student at **FIAP** who builds production-ready systems and developer tools. Most of my work is full-stack, with Node.js and TypeScript at the core.
@@ -63,4 +65,3 @@ I'm also deep into AI and automation, using tools like n8n to build smarter work
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jircik&theme=github_dark)
 
-</div>

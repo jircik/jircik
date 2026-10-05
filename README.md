@@ -8,9 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-jircik/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jircik.dev)
 
-
----
-
 </div>
 
 ## About me
@@ -20,8 +17,6 @@ I'm a Software Engineering student at **FIAP** who builds production-ready syste
 Alongside my studies, I run [**SympleCRM**](https://symplecrm.com.br), my own CRM SaaS, so I handle the whole product myself, from writing the code and deploying it to supporting the customers who use it.
 
 I'm also deep into AI and automation, using tools like n8n to build smarter workflows and ship more complete products.
-
----
 
 ## Tech stack
 
@@ -57,9 +52,6 @@ I'm also deep into AI and automation, using tools like n8n to build smarter work
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
 
 ## GitHub stats
 
